@@ -9,6 +9,8 @@ services:
       MYSQL_DATABASE: demodb
     ports:
       - 3308:3306
+    volumes:
+      - ~/mysql-data:/var/lib/mysql
 
   admin:
       image: adminer

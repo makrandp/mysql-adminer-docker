@@ -2,6 +2,12 @@
 
 ### Adminer is used for managing the database
 
+## Setup 
+```$xslt
+mkdir ~/mysql-data #persistent data
+docker-compose up
+```
+
 ## Useful Commands
 ```$xslt
 docker-compose up
