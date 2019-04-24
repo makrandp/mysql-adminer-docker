@@ -1,6 +1,6 @@
-#MySql with Docker
+# MySql with Docker
 
-###Adminer is used for managing the database
+### Adminer is used for managing the database
 
 ## Useful Commands
 ```$xslt
