@@ -10,7 +10,7 @@ docker-compose up
 
 ## Useful Commands
 ```$xslt
-docker-compose up
+docker-compose up -d
 docker-compose stop
 docker-compose rm -f
 docker-compose down --rmi all
